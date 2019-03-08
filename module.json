@@ -1,0 +1,11 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Foglio1024/vs-location-fix/master/"],
+	"name": "vs-location-fix",
+	"author": "Foglio",
+	"description": "Module that fixes location name display for Ghillieglade entrance and Velik's Sanctuary Normal Mode starting area. Works in guild members list and friend list.",
+	"disableAutoUpdate": false,
+	"options": {
+		"niceName": "vs-location-fix",
+		"guiName": "vs-location-fix"
+	}
+}

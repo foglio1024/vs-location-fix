@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "16928986cc54df39827a44ce31420ebd0dd3569a818d931ec2ab7004e9732325",
+		"module.json": "3511e4037d6d8e4544f833da6a433e5ede8365e7d644e4cbe087504c3a373a5d"
+	},
+	"defs": {
+		"S_FRIEND_LIST": 1,
+		"S_GUILD_MEMBER_LIST": 1
+	}
+}
